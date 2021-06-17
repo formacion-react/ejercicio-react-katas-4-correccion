@@ -1,0 +1,8 @@
+.boton {
+  background-color: brown;
+  color: #fff;
+}
+.grande {
+  composes: boton;
+  font-size: 6em;
+}
